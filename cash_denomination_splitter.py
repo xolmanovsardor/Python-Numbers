@@ -15,3 +15,4 @@ print("$5 kupyuradan:", k_5, "ta")
 k_1 = amount // 1
 amount = amount % 1
 print("$1 kupyuradan:", k_1, "ta")
+
